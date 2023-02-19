@@ -2,7 +2,7 @@ import './App.css';
 import React from 'react';
 
 
-import Intervalo from './components/Intervalo';
+import Intervalo from './components/intervalo/Intervalo';
 import Soma from './components/Soma';
 import Media from './components/Media';
 import Sorteio from './components/Sorteio';
