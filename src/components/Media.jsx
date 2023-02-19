@@ -1,7 +1,7 @@
 import React from "react";
 import { connect } from "react-redux";
 
-import Card from "./Card";
+import Card from "./card/Card";
 
 const Media = (props) => {
     const {min, max} = props
